@@ -79,7 +79,8 @@ Guest Access (no password)
 ├── README.md         // Documentation
 
 └── .gitignore
-
+To compile: gcc student_app.c -o student
+To run : student.exe or .\student.exe
 ## Simulation
 
 <img width="307" height="584" alt="Screenshot 2025-12-05 135943" src="https://github.com/user-attachments/assets/68757a5a-8fb1-4000-a77a-9f377cc5bfe9" />
